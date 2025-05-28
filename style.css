@@ -1,0 +1,70 @@
+body {
+    background-color: #fce4ec; /* Um fundo rosa bem clarinho */
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #444;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 450px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive; /* Uma fonte fofinha para o título */
+    color: #e91e63; /* Um rosa mais forte */
+    margin-bottom: 30px;
+    font-size: 2.2em;
+}
+
+.message-box {
+    background-color: #f8f8f8;
+    border: 1px dashed #e91e63;
+    border-radius: 10px;
+    padding: 25px;
+    min-height: 100px; /* Garante uma altura mínima */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 1.1em;
+    line-height: 1.6;
+    transition: background-color 0.3s ease; /* Efeito suave */
+}
+
+button {
+    background-color: #ff80ab; /* Outro tom de rosa */
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 50px; /* Botão arredondado */
+    font-size: 1.2em;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    box-shadow: 0 4px 10px rgba(233, 30, 99, 0.3);
+}
+
+button:hover {
+    background-color: #e91e63;
+    transform: scale(1.05); /* Efeito de zoom ao passar o mouse */
+}
+
+button:active {
+    transform: scale(0.98); /* Efeito de clique */
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 0.8em;
+    color: #aaa;
+}

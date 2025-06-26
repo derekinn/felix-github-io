@@ -8,7 +8,7 @@ const messages = [
     "Manda a chave pix que eu vou abençoar",
     "Amei ter conhecido você",
     "🤓",
-    "Muitas coisas boas pra você hoje bb",
+    "Muitas coisas boas pra você hoje, curta mto",
     "Vou te dar teu presente (🖕🏽)",
     "Você é uma pessoa muito gente boa",
     "UÊN 👶🏽"

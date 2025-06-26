@@ -2,7 +2,7 @@
 // Adicione quantas quiser, quanto mais, melhor!
 // Use piadas internas, lembranças, elogios, desejos...
 const messages = [
-    "Parabéns meu amorzinho",
+    "Parabéns fofinha",
     "Tudo de bom pra você ",
     "Tu é incrível demaiss, aproveita teu dia",
     "Manda a chave pix que eu vou abençoar",
@@ -10,8 +10,7 @@ const messages = [
     "🤓",
     "Muitas coisas boas pra você hoje bb",
     "Vou te dar teu presente (🖕🏽)",
-    "Você é uma pessoa muito amorosa",
-    "( . ) ( . )",
+    "Você é uma pessoa muito gente boa",
     "UÊN 👶🏽"
 ];
 // --- ⭐ FIM DA LISTA DE MENSAGENS ⭐ ---
